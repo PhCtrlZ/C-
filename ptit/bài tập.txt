@@ -1,0 +1,50 @@
+// C++ program to solve the problems listed in the context
+1 Viết chương trình nhập vào một phân số, rút gọn phân số và xuất kết quả.
+2 Viết chương trình nhập vào hai phân số, tìm phân số lớn nhất và xuất kết quả.
+3 Viết chương trình nhập vào hai phân số. Tính tổng, hiệu, tích, thương giữa chúng và xuất kết quả
+4 Nhập ngày, tháng, năm. Tính tổng từ đầu năm đến ngày mới nhập 
+5 Viết chương trình nhập vào một ngày. Tìm ngày kế tiếp và xuất kết quả.
+6 Viết chương trình nhập vào một ngày. Tìm ngày trước đó và xuất kết quả.
+7 Nhập vào ngày tháng năm và cho biết ngày đó là thứ mấy trong tuần, biết rằng ngày 1 tháng 1 năm 1970 là thứ 5
+8 Nhập vào năm, in ra số ngày thứ 6 ngày 13 của năm đó
+9 Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả
+10Viết chương trình tính hằng số e:
+
+11 Viết chương trình tính hằng số PI với độ chính xác 0.001
+
+12Nhập vào một biển số xe, dùng vòng lặp để tính và in ra số nút của biển số xe mới nhập
+13Kiểm tra một số có hoàn hảo hay không (Số hoàn hảo là số có tổng các Vìdụ:6cócácướcsố ngoạitrừchínhnólà1,2,3vàcótổngcácướclà1+2+3=6->6làsố hoànhảo 
+14Nhập số nguyên dương n, tìm những số hoàn hảo nhỏ hơn n. 
+15Kiểm tra một số có phải là số Armstrong ( Số Armstrong là số bằng tổng lập phương các chữ số của số đó)
+Ví dụ: Số 153 là số Armstrong, bởi vì:13 + 53 + 33 = 153
+16 Nhập số lượng số cần in trong dãy số Fibonacci, hãy in ra các số trong 
+dãy số Fibonacci Ví dụ: Nhập n=10 thì in ra như sau: 0 1 1 2 3 5 8 13 21 34 
+17Kiểm tra một số có phải là số Strong Number hay không (số Strong number là số tổng giai thừa của các số hạng của nó bằng số ban đầu nhập vào) 
+18 Mảng 
+Nhập mảng một chiều có n phần tử mỗi phần tử là một số nguyên 
+Xuất mảng một chiều 
+Đếm số phần tử có giá trị chẵn trong mảng 
+Đếm sổ phần tử có giá trị bằng x (x nhập) trong mảng 
+Tìm phần tử có giá trị nhỏ nhất trong mảng 
+Tìm phần tử có giá trị lớn nhất trong mảng 
+Tìm phần tử có giá trị bằng x trong mảng 
+Xóa phần tử có giá trị bằng x trong mảng 
+Sắp xếp các phẩn tử trong mảng tăng dần 
+Chèn một phần tử có giá trị bằng x vào mảng tăng ở câu 9. Sau khi các phần tử trong mảng vẫn tăng 
+Giả sử ta có mảng a có n phần tử được sắp xếp tăng,mảng b có m phần tử được sắp xếp tăng. Trộng mảng a và b thành mảng c, mảng c có n+m phần tử được sắp xếp tăng 
+Đảo một mảng mà không dùng mảng phụ 13. Kiểm tra một mảng có đối xứng hay không Ví dụ: Mảng sau là đối xứng 1221 -> 12321
+Tìm phần tử lớn thứ 2 trong mảng 
+Tìm phần tử nhỏ thứ 2 trong mảng 
+19. Xét thông tin của một nhân viên gồm có các thuộc tính sau: Tên nhân viên (chuỗi), mã nhân viên (chuỗi), lương tháng (số thực). Dùng ngôn ngữ lập trình c để thực hiện các yêu cầu sau 
+ Khai báo cấu trúc liệu để quản lý danh sách các nhân viên ở trên bằng mảng một chiều 
+Nhập danh sách không quá 5 nhân viên 
+Xuất danh sách nhân viên ra màn hình, thông tin của mỗi nhân viên được xuất trên cùng một dòng 
+Cho biết mức lương cao nhất trong công ty 
+Cho biết mức lương thấp nhất trong công ty 
+Liệt kê tên cùng mức lương của những nhân viên có mức lương cao nhất trong công ty 
+Tìm nhân viên theo mã số 
+Tìm nhân viên theo tên 
+Đếm số lượng nhân viên có mức lương lớn hơn hoặc bằng 5 triệu 
+Xóa nhân viên theo mã số 
+Sắp xếp danh sách nhân viên tăng theo lương tháng 
+Chèn thông tin của một nhân viên vào danh sách nhân viên đã được sắp xếp ở câu 19 , sao cho sau khi chèn danh sách nhân viên vẫn tăng theo lương mà không cần sắp xếp lại 

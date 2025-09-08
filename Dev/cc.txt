@@ -1,0 +1,2 @@
+xâu 1 chứa các phần tử xâu bình thường
+xâu 2 chứa phần tử bị xóa từ xâu 1

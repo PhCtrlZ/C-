@@ -1,0 +1,21 @@
+{
+  "C++ Template": {
+    "prefix": "!cpp",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "#define fastio ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);",
+      "#define ll long long",
+      "#define pb push_back",
+      "#define all(x) (x).begin(), (x).end()",
+      "",
+      "int main() {",
+      "    fastio;",
+      "    ",
+      "    return 0;",
+      "}"
+    ],
+    "description": "C++ base template for competitive programming"
+  }
+}
